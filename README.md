@@ -1,7 +1,5 @@
 # IpsilonLibs
 
-Biblioteca PHP reutilizável para construir aplicações com estrutura de framework, incluindo carregamento de classes, roteamento, modelos, acesso a banco de dados e utilitários HTTP.
-
 ## Visão geral
 
 O projeto reúne componentes essenciais para um ecossistema de aplicação PHP, com foco em organização, reutilização e convenções baseadas em namespaces e autoload PSR-4.
